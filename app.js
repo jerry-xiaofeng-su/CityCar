@@ -1,4 +1,4 @@
-﻿//app.jskkk
+//app.jslll
 App({
   onLaunch: function () {
     // 展示本地存储能力
