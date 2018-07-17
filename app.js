@@ -1,4 +1,4 @@
-//app.jslll
+﻿//app.jstime1.2
 App({
   onLaunch: function () {
     // 展示本地存储能力
